@@ -1,6 +1,13 @@
 # Sanctum 2 UE3 Settings
 Using a display resolution of at least 1440p is recommended
 
+## Sample Images
+<img src="z_readMe_res\20260511111950_1.jpg" alt="">
+<img src="z_readMe_res\20260525000426_1.jpg" alt="">
+<img src="z_readMe_res\20260524233347_1.jpg" alt="">
+<img src="z_readMe_res\20260523103458_1.jpg" alt="">
+<img src="z_readMe_res\20260511223431_1.jpg" alt="">
+
 ## Changes
 ### Increased Performance
 - Removed 60 FPS framerate cap
@@ -40,10 +47,10 @@ Using a display resolution of at least 1440p is recommended
 Backup your game files
 
 ### 4. Replace
-| Replace the *Config* folder in *.../SteamLibrary/steamapps/common/Sanctum2/Engine* with the *Engine/Config* folder from the zip file |
+| Replace the *"Config"* folder in *".../SteamLibrary/steamapps/common/Sanctum2/Engine"* with the *"Engine/Config"* folder from the zip file |
 | :- |
 | <img src="z_readMe_res\engine.png" alt=""> |
 
-| Replace the *Config* folder in *.../SteamLibrary/steamapps/common/Sanctum2/SanctumGame* with the *SanctumGame/Config* folder from the zip file |
+| Replace the *"Config"* folder in *".../SteamLibrary/steamapps/common/Sanctum2/SanctumGame"* with the *"SanctumGame/Config"* folder from the zip file |
 | :- |
 | <img src="z_readMe_res\game.png" alt=""> |
