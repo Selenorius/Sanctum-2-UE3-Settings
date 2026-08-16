@@ -31,16 +31,19 @@ Using a display resolution of at least 1440p is recommended
 
 ## Installation
 ### 1. Click
-![the Code Button](z_readMe_res\code.png)
+<img src="z_readMe_res\code.png" alt="the Code Button">
 
 ### 2. Pick
-![the "Download Zip" option](z_readMe_res\zip.png)
+<img src="z_readMe_res\zip.png" alt="the Download Zip option">
 
-### 3. Replace
+### 3. Backup
+Backup your game files
+
+### 4. Replace
 | Replace the *Config* folder in *.../SteamLibrary/steamapps/common/Sanctum2/Engine* with the *Engine/Config* folder from the zip file |
 | :- |
-| ![](z_readMe_res\engine.png) |
+| <img src="z_readMe_res\engine.png" alt=""> |
 
 | Replace the *Config* folder in *.../SteamLibrary/steamapps/common/Sanctum2/SanctumGame* with the *SanctumGame/Config* folder from the zip file |
 | :- |
-| ![](z_readMe_res\game.png) |
+| <img src="z_readMe_res\game.png" alt=""> |
