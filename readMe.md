@@ -2,11 +2,13 @@
 Using a display resolution of at least 1440p is recommended
 
 ## Sample Images
-<img src="z_readMe_res\20260511111950_1.jpg" alt="">
-<img src="z_readMe_res\20260525000426_1.jpg" alt="">
-<img src="z_readMe_res\20260524233347_1.jpg" alt="">
-<img src="z_readMe_res\20260523103458_1.jpg" alt="">
-<img src="z_readMe_res\20260511223431_1.jpg" alt="">
+![Image](210770_20261006193739_1.png)
+![Image](210770_20261006193810_1.png)
+![Image](210770_20261006193757_1.png)
+![Image](210770_20261006195614_1.png)
+![Image](210770_20261006200845_1.png)
+![Image](210770_20261006201008_1.png)
+![Image](210770_20261006202600_1.png)
 
 ## Changes
 ### Increased Performance
@@ -54,3 +56,7 @@ Backup your game files
 | Replace the *"Config"* folder in *".../SteamLibrary/steamapps/common/Sanctum2/SanctumGame"* with the *"SanctumGame/Config"* folder from the zip file |
 | :- |
 | <img src="z_readMe_res\game.png" alt=""> |
+
+| Paste the contents from the *"Reshade"* folder from the zip file into *"Binaríes\Win32"* |
+| :- |
+| <img src="z_readMe_res\binaries.png" alt=""> |
