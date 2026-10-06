@@ -29,7 +29,10 @@ Using a display resolution of at least 1440p is recommended
 - Modified Lightmass.ini (refer to [this](https://forums.unrealengine.com/t/baselightmass-ini-a-summary-from-various-posts/46793))
 
 ### Smoother Edges
-- Switched to TAA instead of MSAA (works well for this game apart from menus where the game forces 30 FPS)
+- Added FXAA and MLAA on top of the games default MSAA (TAA doesn't work well for this game)
+
+### Reshade
+- Added a Reshade preset, adapted from Portal 2's [Ultra Graphics Mod](https://www.moddb.com/mods/portal-2-ultra-graphics-mod-2018)
 
 ### Immersive Audio
 - Improved spatial audio
