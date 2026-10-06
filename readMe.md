@@ -2,13 +2,13 @@
 Using a display resolution of at least 1440p is recommended
 
 ## Sample Images
-![Image](210770_20261006193739_1.png)
-![Image](210770_20261006193810_1.png)
-![Image](210770_20261006193757_1.png)
-![Image](210770_20261006195614_1.png)
-![Image](210770_20261006200845_1.png)
-![Image](210770_20261006201008_1.png)
-![Image](210770_20261006202600_1.png)
+![Image](z_readMe_res\210770_20261006193739_1.png)
+![Image](z_readMe_res\210770_20261006193810_1.png)
+![Image](z_readMe_res\210770_20261006193757_1.png)
+![Image](z_readMe_res\210770_20261006195614_1.png)
+![Image](z_readMe_res\210770_20261006200845_1.png)
+![Image](z_readMe_res\210770_20261006201008_1.png)
+![Image](z_readMe_res\210770_20261006202600_1.png)
 
 ## Changes
 ### Increased Performance
