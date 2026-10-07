@@ -137,7 +137,7 @@ Hope you enjoy SweetFX and ReShade.
 #define CRTScanlineIntensity 2.0     //[2.0 to 4.0]    Scanlines intensity (use integer values preferably). Default is 2.0
 #define CRTScanlineGaussian  1       //[0 or 1]        Use the "new nongaussian scanlines bloom effect". Default is on
 
-#define CRTCurvature         1       //[[0 or 1]          "Barrel effect" enabled (1) or off (0)
+#define CRTCurvature         1       //[0 or 1]          "Barrel effect" enabled (1) or off (0)
 #define CRTCurvatureRadius   2.0     //[0.0 to 2.0]       Curvature Radius (only effective when Curvature is enabled). Default is 1.5
 #define CRTCornerSize        0.0100  //[0.0000 to 0.0020] Higher values, more rounded corner. Default is 0.001
 #define CRTDistance          2.00    //[0.00 to 4.00]     Simulated distance from viewer to monitor. Default is 2.00
@@ -339,12 +339,12 @@ Hope you enjoy SweetFX and ReShade.
    /*-----------------------------------------------------------.
   /                      Film Grain settings                    /
   '-----------------------------------------------------------*/
-#define FilmGrain_intensity 0.50 //[0.00 to 1.00] How visible the grain is. Higher is more visible.
-#define FilmGrain_variance  0.40 //[0.00 to 1.00] Controls the variance of the gaussian noise. Lower values look smoother.
-#define FilmGrain_SNR          6 //[0 to 16] Higher Signal-to-Noise Ratio values give less grain to brighter pixels. 0 disables this feature.
+#define FilmGrain_intensity 0.00 //[0.00 to 1.00] How visible the grain is. Higher is more visible.
+#define FilmGrain_variance  0.00 //[0.00 to 1.00] Controls the variance of the gaussian noise. Lower values look smoother.
+#define FilmGrain_SNR          16 //[0 to 16] Higher Signal-to-Noise Ratio values give less grain to brighter pixels. 0 disables this feature.
 
 // -- Advanced Film Grain settings --
-#define FilmGrain_mean     0.50 //[0.00 to 1.00] The average mean of the gaussian noise. Probably best kept at the middle value (0.50)
+#define FilmGrain_mean     0.00 //[0.00 to 1.00] The average mean of the gaussian noise. Probably best kept at the middle value (0.50)
 
 //A sideeffect of the Film Grain effect is that it also dithers the screen.
 //You don't need both the Film Grain and the Dither effect enabled at the same time.
