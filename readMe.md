@@ -63,3 +63,7 @@ Backup your game files
 | Paste the contents from the *"Reshade"* folder from the zip file into *"Binaríes\Win32"* |
 | :- |
 | <img src="z_readMe_res\binaries.png" alt=""> |
+
+### 5. Nvidia Control Panel Settings
+<img src="z_readMe_res\panel1.png" alt="Image1">
+<img src="z_readMe_res\panel2.png" alt="Image2">
