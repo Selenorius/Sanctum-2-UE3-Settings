@@ -60,7 +60,7 @@ Backup your game files
 | :- |
 | <img src="z_readMe_res\game.png" alt=""> |
 
-| Paste the contents from the *"Reshade"* folder from the zip file into *"Binaríes\Win32"* |
+| Paste the contents from the *"Reshade"* folder from the zip file into *"Binaries\Win32"* (Requires [Reshade](https://static.reshade.me/)) |
 | :- |
 | <img src="z_readMe_res\binaries.png" alt=""> |
 
