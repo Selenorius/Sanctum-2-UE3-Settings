@@ -32,7 +32,7 @@ Using a display resolution of at least 1440p is recommended
 - Added FXAA and MLAA on top of the games default MSAA (TAA doesn't work well for this game)
 
 ### Reshade
-- Added a Reshade preset, adapted from Portal 2's [Ultra Graphics Mod](https://www.moddb.com/mods/portal-2-ultra-graphics-mod-2018)
+- Added a Reshade preset, inspired by Portal 2's [Ultra Graphics Mod](https://www.moddb.com/mods/portal-2-ultra-graphics-mod-2018)
 
 ### Immersive Audio
 - Improved spatial audio
