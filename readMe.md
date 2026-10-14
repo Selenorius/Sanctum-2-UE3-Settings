@@ -29,7 +29,7 @@ Using a display resolution of at least 1440p is recommended
 - Modified Lightmass.ini (refer to [this](https://forums.unrealengine.com/t/baselightmass-ini-a-summary-from-various-posts/46793))
 
 ### Smoother Edges
-- Added TRAA(no TAA ghosting don't worry), FXAA, MLAA and disabled the games default MSAA(required for Reshade to access the games Depth Buffer) (TAA doesn't work well for this game)
+- Added FXAA and MLAA on top of the games default MSAA(Engine TAA doesn't work well for this game)
 
 ### Immersive Audio
 - Improved spatial audio
