@@ -29,7 +29,7 @@ Using a display resolution of at least 1440p is recommended
 - Modified Lightmass.ini (refer to [this](https://forums.unrealengine.com/t/baselightmass-ini-a-summary-from-various-posts/46793))
 
 ### Smoother Edges
-- Added FXAA and MLAA on top of the games default MSAA (TAA doesn't work well for this game)
+- Added TRAA(no TAA ghosting don't worry), FXAA, MLAA and disabled the games default MSAA(required for Reshade to access the games Depth Buffer) (TAA doesn't work well for this game)
 
 ### Reshade
 - Added a Reshade preset, inspired by Portal 2's [Ultra Graphics Mod](https://www.moddb.com/mods/portal-2-ultra-graphics-mod-2018)
@@ -40,6 +40,7 @@ Using a display resolution of at least 1440p is recommended
 
 ### Miscellaneous
 - Changed sprint controls to HOLD
+- Imporved server performance
 
 ## Installation
 ### 1. Click
@@ -67,3 +68,4 @@ Backup your game files
 ### 5. Nvidia Control Panel Settings
 <img src="z_readMe_res\panel1.png" alt="Image1">
 <img src="z_readMe_res\panel2.png" alt="Image2">
+If you are not using Reshade set "Antialiasing - Mode" to "Override Application Setting" and "Antialiasing - Setting" to "MSAA 8x"
