@@ -31,9 +31,6 @@ Using a display resolution of at least 1440p is recommended
 ### Smoother Edges
 - Added FXAA and MLAA on top of the games default MSAA (TAA doesn't work well for this game)
 
-### Reshade
-- Added a Reshade preset, inspired by Portal 2's [Ultra Graphics Mod](https://www.moddb.com/mods/portal-2-ultra-graphics-mod-2018)
-
 ### Immersive Audio
 - Improved spatial audio
 - Increased audio quality
@@ -59,10 +56,6 @@ Backup your game files
 | Replace the *"Config"* folder in *".../SteamLibrary/steamapps/common/Sanctum2/SanctumGame"* with the *"SanctumGame/Config"* folder from the zip file |
 | :- |
 | <img src="z_readMe_res\game.png" alt=""> |
-
-| Paste the contents from the *"Reshade"* folder from the zip file into *"Binaries\Win32"* (Requires [Reshade](https://static.reshade.me/)) |
-| :- |
-| <img src="z_readMe_res\binaries.png" alt=""> |
 
 ### 5. Nvidia Control Panel Settings
 <img src="z_readMe_res\panel1.png" alt="Image1">
