@@ -61,4 +61,3 @@ Backup your game files
 ### 5. Nvidia Control Panel Settings
 <img src="z_readMe_res\panel1.png" alt="Image1">
 <img src="z_readMe_res\panel2.png" alt="Image2">
-If you are not using Reshade set "Antialiasing - Mode" to "Override Application Setting" and "Antialiasing - Setting" to "MSAA 8x"
