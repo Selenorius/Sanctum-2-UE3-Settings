@@ -1,6 +1,8 @@
 # Sanctum 2 UE3 Settings
 Using a display resolution of at least 1440p is recommended
 
+For 1080p display users: [**Downscaling**](https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/143071/better-iq-downscaling/)
+
 ## Sample Images
 <img src="z_readMe_res\210770_20261006193739_1.png" alt="Sample Image">
 <img src="z_readMe_res\210770_20261006193810_1.png" alt="Sample Image">
@@ -19,19 +21,19 @@ Using a display resolution of at least 1440p is recommended
 - Improved texture streaming
 
 ### More Detail
-- Increased LOD to 2000 (max detail for the entire map)
+- Increased LOD to 2000 (Max detail for the entire map)
 
 ### Better Shadows
 - Higher shadow resolution
 - More accurate shadows
 
 ### Lighting Improvements
-- Modified Lightmass.ini (refer to [this](https://forums.unrealengine.com/t/baselightmass-ini-a-summary-from-various-posts/46793))
+- Modified Lightmass.ini (Refer to [this](https://forums.unrealengine.com/t/baselightmass-ini-a-summary-from-various-posts/46793))
 - New Ambient Occlusion
 - New Bloom
 
 ### Smoother Edges
-- Added FXAA, MFAA, MLAA and TRAA and removed the games default MSAA(Engine MSAA and TAA don't work well for this game)
+- Added FXAA, MFAA, MLAA and TRAA and removed the games default MSAA (Engine MSAA and TAA don't work well for this game)
 
 ### Immersive Audio
 - Improved spatial audio
@@ -50,7 +52,7 @@ Using a display resolution of at least 1440p is recommended
 <img src="z_readMe_res\zip.png" alt="the Download Zip option">
 
 ### 3. Backup
-Backup your game files
+Back up your game files
 
 ### 4. Replace
 | Replace the *"Config"* folder in *".../SteamLibrary/steamapps/common/Sanctum2/Engine"* with the *"Engine/Config"* folder from the zip file |
@@ -70,11 +72,11 @@ Backup your game files
 2. Run Reshade_Setup.exe
 3. Select Sanctum 2
 4. Select DirectX9
-5. Click next until the setup is finished(If you are using the preset these options don't matter)
+5. Click next until the setup is finished (If you are using the preset these options don't matter)
 6. Copy the files from the *"Reshade"* folder from the zip file into *".../SteamLibrary/steamapps/common/Sanctum2/Binaries/Win32"*
 
 <img src="z_readMe_res\binaries.png" alt="Image2">
 
 7. Launch Sanctum 2
 8. Wait for the shaders to load
-9. Select the correct Depth Buffer(refer to [this](https://guides.martysmods.com/reshade/depth/))
+9. Select the correct Depth Buffer (Refer to [this](https://guides.martysmods.com/reshade/depth/))
