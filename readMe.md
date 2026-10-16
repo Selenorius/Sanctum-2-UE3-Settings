@@ -41,7 +41,7 @@ For 1080p display users: [**Downscaling**](https://www.nvidia.com/en-us/geforce/
 
 ### Miscellaneous
 - Changed sprint controls to HOLD
-- Imporved server performance
+- Improved server performance
 - Fixed most z-fighting occurences
 
 ## Installation
