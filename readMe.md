@@ -74,3 +74,7 @@ Backup your game files
 6. Copy the files from the *"Reshade"* folder from the zip file into *".../SteamLibrary/steamapps/common/Sanctum2/Binaries/Win32"*
 
 <img src="z_readMe_res\binaries.png" alt="Image2">
+
+7. Launch Sanctum 2
+8. Wait for the shaders to load
+9. Select the correct Depth Buffer(refer to [this](https://guides.martysmods.com/reshade/depth/))
