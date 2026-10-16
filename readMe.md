@@ -15,8 +15,8 @@ Using a display resolution of at least 1440p is recommended
 - Removed 60 FPS framerate cap
 
 ### Improved Textures
-- Increased some texture resolutions
 - Changed to aniso texture filtering for smoother MipMap transitions
+- Improved texture streaming
 
 ### More Detail
 - Increased LOD to 2000 (max detail for the entire map)
@@ -27,9 +27,11 @@ Using a display resolution of at least 1440p is recommended
 
 ### Lighting Improvements
 - Modified Lightmass.ini (refer to [this](https://forums.unrealengine.com/t/baselightmass-ini-a-summary-from-various-posts/46793))
+- New Ambient Occlusion
+- New Bloom
 
 ### Smoother Edges
-- Added FXAA and MLAA on top of the games default MSAA(Engine TAA doesn't work well for this game)
+- Added FXAA, MFAA, MLAA and TRAA and removed the games default MSAA(Engine MSAA and TAA don't work well for this game)
 
 ### Immersive Audio
 - Improved spatial audio
@@ -38,6 +40,7 @@ Using a display resolution of at least 1440p is recommended
 ### Miscellaneous
 - Changed sprint controls to HOLD
 - Imporved server performance
+- Fixed most z-fighting occurences
 
 ## Installation
 ### 1. Click
@@ -61,3 +64,13 @@ Backup your game files
 ### 5. Nvidia Control Panel Settings
 <img src="z_readMe_res\panel1.png" alt="Image1">
 <img src="z_readMe_res\panel2.png" alt="Image2">
+
+### 6. Reshade
+1. Install [Reshade](https://static.reshade.me)
+2. Run Reshade_Setup.exe
+3. Select Sanctum 2
+4. Select DirectX9
+5. Click next until the setup is finished(If you are using the preset these options don't matter)
+6. Copy the files from the *"Reshade"* folder from the zip file into *".../SteamLibrary/steamapps/common/Sanctum2/Binaries/Win32"*
+
+<img src="z_readMe_res\binaries.png" alt="Image2">
