@@ -1,4 +1,4 @@
-# Sanctum 2 UE3 Settings
+# Sanctum 2 Ultra Graphics
 Using a display resolution of at least 1440p is recommended
 
 For 1080p display users: [**Downscaling**](https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/143071/better-iq-downscaling/)
@@ -41,7 +41,7 @@ For 1080p display users: [**Downscaling**](https://www.nvidia.com/en-us/geforce/
 
 ### Miscellaneous
 - Changed sprint controls to HOLD
-- Imporved server performance
+- Improved server performance
 - Fixed most z-fighting occurences
 
 ## Installation
